@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 23 00:35:30 2023
-
-@author: wyattjohnston
-"""
-
 from collections import deque
 import matplotlib.pyplot as plt
 import seaborn as sns
